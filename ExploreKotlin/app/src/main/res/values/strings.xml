@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Explore Kotlin</string>
+    <string name="btn_realm_db">Realm Database</string>
+    <string name="btn_slide_menu">Navigation Bar</string>
+    <string name="btn_tab_layout">Tab Layout</string>
+
+    <string name="et_realm_name_hint">Enter Name</string>
+    <string name="et_realm_mobile_hint">Enter Mobile</string>
+
+    <string name="btn_realm_add_txt">Add</string>
+    <string name="btn_realm_update_txt">Update</string>
+    <string name="btn_realm_delete_txt">Delete</string>
+    <string name="btn_realm_view_txt">View</string>
+
+    <string name="add_record_field_empty_msg">Please Filed All Record!</string>
+    <string name="default_txt">--</string>
+    <string name="recordEmpty">Record not found!</string>
+    <string name="title_activity_slide_menu">SlideMenu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_default_txt">--</string>
+    <string name="tab_title_one">one</string>
+    <string name="tab_title_two">two</string>
+    <string name="tab_title_three">three</string>
+
+</resources>
